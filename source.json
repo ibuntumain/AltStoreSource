@@ -2,10 +2,12 @@
   "name": "Ian Linzey",
   "subtitle": "A source for all of my apps",
   "description": "Welcome to my source! Here you'll find all of my apps.",
-  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "iconURL": "https://i.imgur.com/HKlq74D.png",
   "website": "https://github.com/ibuntumain/AltStoreSource",
+  "patreonURL": "",
   "tintColor": "#6156e2",
   "featuredApps": [],
+  "headerURL": "https://i.imgur.com/nhHq9ly.png",
   "apps": [
     {
       "name": "Clicker",
@@ -31,6 +33,9 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
+      },
+      "patreon": {}
     }
+  ],
   "news": []
 }
