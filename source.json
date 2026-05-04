@@ -6,6 +6,7 @@
   "website": "https://github.com/ibuntumain/AltStoreSource",
   "patreonURL": "https://patreon.com/altstudio",
   "tintColor": "#6156e2",
+  "notarized": true,
   "featuredApps": [],
   "apps": [
     {
