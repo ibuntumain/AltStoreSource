@@ -11,7 +11,7 @@
     {
       "name": "Clicker",
       "bundleIdentifier": "com.example.flutterApplication1",
-      "developerName": "Ian Linze",
+      "developerName": "Ian Linzey",
       "subtitle": "DEV AOO",
       "localizedDescription": "DEV",
       "iconURL": "https://i.imgur.com/O7QkgZK.png",
@@ -23,7 +23,7 @@
           "downloadURL": "https://github.com/ibuntumain/IOS-Apps/releases/download/v1.0.0/app.ipa",
           "size": 6000000,
           "version": "1.0.0",
-          "buildVersion": "1",
+          "buildVersion": "2",
           "date": "2026-05-04T09:34:00-05:00",
           "localizedDescription": null,
           "minOSVersion": null
